@@ -1,0 +1,4 @@
+*.tmp
+*.bak
+*.snoop.bak.*
+.DS_Store
