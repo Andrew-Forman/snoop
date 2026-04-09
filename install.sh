@@ -3,7 +3,7 @@
 set -euo pipefail
 
 INSTALL_DIR="${HOME}/.snoop"
-REPO_URL="https://github.com/<org>/snoop"
+REPO_URL="https://github.com/Andrew-Forman/snoop"
 
 echo "Installing snoop..."
 

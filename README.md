@@ -15,7 +15,7 @@ snoop gives you a clear picture of what's leaking, to whom, and what you can do 
 Clone and run:
 
 ```bash
-git clone https://github.com/<org>/snoop.git
+git clone https://github.com/Andrew-Forman/snoop.git
 cd snoop
 chmod +x snoop.sh
 ./snoop.sh
